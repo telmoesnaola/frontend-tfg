@@ -1,0 +1,7 @@
+.bg-div{
+    display: flex;
+    min-height: 100vh;
+    width: 100%;
+    padding: 50px 0 50px 0;
+    background: linear-gradient(#111314, #303438);
+}
